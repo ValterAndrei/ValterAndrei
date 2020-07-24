@@ -4,7 +4,7 @@
  
 ## I'm Valter!
  
-… Insira suas descrições aqui!
+Full-stack developer with experience in web projects.
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/valterandrei)
