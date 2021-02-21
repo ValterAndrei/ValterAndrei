@@ -5,8 +5,7 @@
 ## I'm Valter!
  
 Full-stack developer with experience in web projects.
- 
-## About me
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valterandrei/)
  
 - Thanks for visiting. 
